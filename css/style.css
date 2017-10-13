@@ -1,0 +1,16 @@
+nav {
+  background color: yellow;
+  height: 40px
+  position: fixed;
+  width: 100%;
+}
+
+.example, h3
+  text-align: center;
+}
+
+.element {
+  background-color: green;
+  height: 100px
+  margin: 0 auto;
+  width: 80%;
