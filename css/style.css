@@ -5,7 +5,7 @@ body {
 
 /* nav bar styling */
 nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
@@ -36,6 +36,14 @@ h3 {
 /* div element styles */
 .element {
   background-color: green;
+  height: 100px;
+  margin: 10px;
+  width: 100%;
+}
+
+/* div feature styles */
+.feature {
+  background-color: blue;
   height: 100px;
   margin: 10px;
   width: 100%;
